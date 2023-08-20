@@ -41,3 +41,7 @@ Welcome to password manager. What would you like to do?
 
 ## Notes
 The name for the table you create needs to be "passwords" as this is what is used for all queries. You can change this, but it would mean you need to update all SQL queries with the appropriate database name
+
+## Next Steps
+1. Need to build in encryption for passwords so they aren't stored as plaintext in the database
+2. Will potentially implement a GUI in tkinter if it improves ease of use.
