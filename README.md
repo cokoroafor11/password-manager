@@ -3,7 +3,7 @@
 Password Manager is an application run through the command line that allows you to store passwords for various accounts in one place. Additionally, the application can generate unique passwords for you to use and store.
 
 ## Installation
-Download [PostgresQL](https://www.postgresql.org/download/) from the website if you haven't done so already.
+Download [PostgreSQL](https://www.postgresql.org/download/) from the website if you haven't done so already.
 
 Additionally, you can install [pgAdmin](https://www.pgadmin.org/download/) for database management and visualization.
 
