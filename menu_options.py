@@ -1,16 +1,3 @@
-#Menu
-#Options
-## Create database
-## Add password (with website and username)
-## Remove password
-## Change Password
-## Retrieve password
-## Option to autogenerate password
-##
-
-##Require database password
-##Copy passwords to clipboard
-##Recurring auto-updates?
 import psycopg2
 from psycopg2 import sql
 import pandas as pd
@@ -150,10 +137,5 @@ def view_database(db_name):
     except (Exception, psycopg2.Error) as error:
         print(error)
 
-arr = ['hello','what','hello@yahoo.com','yahoo','yahoo.com']
-#add_pass(arr[0],arr[1],arr[2],arr[3],arr[4])
-#retrieve_pass('yahoo','yooo')
-#delete_pass('hello','yahoo')
-#update_pass('goat_james','gmail','howsitgoing')
-view_database('passwords')
+
 
