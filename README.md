@@ -26,7 +26,7 @@ port = #Usually 5432
 ## Usage
 The application is run through the command line, which gives you the following options which enable you to perform any necessary tasks
 
-```python
+```
 Welcome to password manager. What would you like to do?
  1: Retrieve password
  2: Add password
