@@ -24,7 +24,7 @@ port = #Usually 5432
 ```
 
 ## Usage
-The application is run through the command line, which gives you the following options which enable you to perform any necessary tasks
+The application is run through the password_manager.py file, which provides you with the following tasks that you may perform.
 
 ```
 Welcome to password manager. What would you like to do?
