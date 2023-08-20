@@ -17,9 +17,9 @@ def main():
 3: Delete password\n \
 4: Update password\n \
 5: Generate password\n \
-6: View database\n \
-7: Create database\n \
-8: Delete database\n \
+6: View table\n \
+7: Create table\n \
+8: Delete table\n \
 0: Exit\n\n"))
                 
                 #Check that the value of input is in correct range, otherwise, friendly msg
